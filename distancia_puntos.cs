@@ -12,7 +12,6 @@ class Empleado
         Nombre = nombre;
         Salario = 0; // Inicializamos el salario en 0
     }
-
     // Método para agregar el salario manualmente
     public void AgregarSalarioManualmente()
     {
